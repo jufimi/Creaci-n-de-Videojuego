@@ -1,6 +1,6 @@
 # Creaci-n-de-Videojuego
 
-## Equipo: Nombre
+## Equipo: Lobos Audaces
 
 - Foto Equipo: ![Foto Equipo!](/equipo.png)
  
